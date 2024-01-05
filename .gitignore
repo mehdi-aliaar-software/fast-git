@@ -1,3 +1,4 @@
 toolsForIgnore/
 tools/
 /.vs/fast-git/FileContentIndex/cd03229a-3eac-426f-bc56-10c03dd74485.vsidx
+*.vsidx
